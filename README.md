@@ -1,6 +1,9 @@
 # whoislrnylru
 
-Hey y'all, I'm lrnylru! 👋
+Hey y'all, I'm lrny-lru! 👋
+
+
+
 
   🌌I have a science degree and a background in research psychology along with experience in clinical and behavioral neuropsychology.
   
