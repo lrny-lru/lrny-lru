@@ -9,7 +9,7 @@ Hey y'all, I'm lrny-lru! 👋
   
   💻I'm working/learning in JavaScript, jQuery, and soon, React.
   
-  🎒 I'm currently training to be a Full Stack Developer.
+  🎒 I'm a full stack engineer or design developer to some, depends on who you ask.
   
   🧐 I'm interested in patterns and the different ways to think about languages as you learn them.
   
@@ -19,4 +19,4 @@ Hey y'all, I'm lrny-lru! 👋
   
   ⛺ I live in North Carolina.
   
-  💬 Ask me about JS, React, CSS, HTML, design methods, Art or anything in Psychology! I love talking special interests!
+  💬 tweet at me if you like discussing all the different ways to think about information or you just enjoy being silly & absurd? @lrnlru
