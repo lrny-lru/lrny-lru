@@ -15,7 +15,7 @@ Hey y'all, I'm lrny-lru! 👋
   
   🎨 I've been a practicing artist for ~25 years & a professional for the last 5 years. 
   
-  🏢 I train as a Full Stack Developer with Thinkful's full time Engineering immersion program.
+  🏢 I'm in coding bootcamp (⌐■_■)
   
   ⛺ I live in North Carolina.
   
