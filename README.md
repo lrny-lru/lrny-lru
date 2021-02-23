@@ -7,7 +7,7 @@ Hey y'all, I'm lrny-lru! 👋
 
   🌌I have a science degree and a background in research psychology along with experience in clinical and behavioral neuropsychology.
   
-  💻JavaScript ES6, React.js, Node.js, RESTful APIs, PostgresSQL
+  💻JavaScript ES6, React.js, Node.js, RESTful APIs, PostgresSQL,Algorithms, Data Structures
   
   👀 fixin to teach myself Python & Java
   
@@ -16,8 +16,6 @@ Hey y'all, I'm lrny-lru! 👋
   🧐 I'm interested in way too many things: art theory, colors, design, cognitive psychology, research methods and traditions, functional psychology, computers, languages,     music...
   
   🎨 I've been a practicing artist for ~25 years & a professional for the last 5 years. 
-  
-  🏢 I'm in coding bootcamp (⌐■_■)
   
   ⛺ I live in North Carolina.
   
